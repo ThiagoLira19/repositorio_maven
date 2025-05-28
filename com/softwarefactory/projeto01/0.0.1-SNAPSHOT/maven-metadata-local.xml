@@ -3,7 +3,7 @@
   <groupId>com.softwarefactory</groupId>
   <artifactId>projeto01</artifactId>
   <versioning>
-    <lastUpdated>20250525024808</lastUpdated>
+    <lastUpdated>20250528024343</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20250525024808</updated>
+        <updated>20250528024343</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20250525024808</updated>
+        <updated>20250528024343</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
